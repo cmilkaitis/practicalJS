@@ -42,4 +42,4 @@ var todoList = {
     }
 }
 
-todoList.addTodo("todo2");
+
